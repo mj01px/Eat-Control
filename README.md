@@ -1,17 +1,17 @@
-🍽️ Eat Control - Restaurant Management System
+🍽️ Eat Control - Restaurant Management System<br>
 A simple terminal-based restaurant manager built with pure Python
 
 Features
-➕ Add restaurants with name, cuisine type, and rating
-👀 View all restaurants (active/inactive)
-🔄 Toggle activation status
-📋 Simple text-based menu navigation
+➕ Add restaurants with name, cuisine type, and rating<br>
+👀 View all restaurants (active/inactive)<br>
+🔄 Toggle activation status<br>
+📋 Simple text-based menu navigation<br>
 
 
 Learning Focus
--Python fundamentals (lists, dicts, loops)
--Function (def) organization
--Basic terminal UI/UX
+Python fundamentals (lists, dicts, loops),
+Function (def) organization,
+Basic terminal UI/UX/
 
 Tech Stack
 - Language: Python 3 (no external dependencies)
